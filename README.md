@@ -53,7 +53,7 @@ To run this project locally, follow these steps:
 
 This project uses Axios to fetch game data from an external API. You will need to replace `API_ENDPOINT` in the code with the actual API endpoint URL. Here's how to integrate the API:
 
-1. **Get API Endpoint**: Sign up on a game API provider (e.g., [GameAPI.com](https://gameapi.com/)).
+1. **Get API Endpoint**: Sign up on a game API provider (e.g., [GameAPI.com](https://api.rawg.io/api)).
 2. **Replace API Endpoint**: In the codebase, replace `API_ENDPOINT` with the actual API endpoint URL.
 
 ```javascript
